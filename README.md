@@ -1,11 +1,8 @@
 # Matplotlib and pyplot
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+Matplotlib is a Python library for creating static, animated, and interactive visualizations. It is a comprehensive library that can be used for a wide variety of tasks, including:
 
-## Rubric
-
-Each question is worth two points: 
-
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
+Plotting 2D and 3D graphs
+Creating charts and histograms
+Animating data
+Integrating with GUI toolkits
